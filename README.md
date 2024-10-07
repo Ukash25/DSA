@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ukash25/DSA/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/Ukash25/DSA/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/Ukash25/DSA/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Ukash25/DSA/tree/master/0283-move-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Ukash25/DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
