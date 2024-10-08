@@ -4,7 +4,6 @@ class Solution {
         for(int i=0;i<nums.length;i++)
         {
             xor^=nums[i];
-            System.out.println(xor+" ");
         }
         return xor;
     }
