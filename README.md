@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ukash25/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ukash25/DSA/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/Ukash25/DSA/tree/master/0283-move-zeroes) |
+| [0494-target-sum](https://github.com/Ukash25/DSA/tree/master/0494-target-sum) |
 | [0724-find-pivot-index](https://github.com/Ukash25/DSA/tree/master/0724-find-pivot-index) |
 | [0860-design-circular-queue](https://github.com/Ukash25/DSA/tree/master/0860-design-circular-queue) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Ukash25/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ukash25/DSA/tree/master/0042-trapping-rain-water) |
+| [0494-target-sum](https://github.com/Ukash25/DSA/tree/master/0494-target-sum) |
 ## Stack
 |  |
 | ------- |
@@ -97,4 +99,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Ukash25/DSA/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/Ukash25/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
