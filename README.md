@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Ukash25/DSA/tree/master/0724-find-pivot-index) |
 | [0860-design-circular-queue](https://github.com/Ukash25/DSA/tree/master/0860-design-circular-queue) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Ukash25/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2868-continuous-subarrays](https://github.com/Ukash25/DSA/tree/master/2868-continuous-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,10 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Ukash25/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/Ukash25/DSA/tree/master/0860-design-circular-queue) |
+| [2868-continuous-subarrays](https://github.com/Ukash25/DSA/tree/master/2868-continuous-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Ukash25/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2868-continuous-subarrays](https://github.com/Ukash25/DSA/tree/master/2868-continuous-subarrays) |
 ## Simulation
 |  |
 | ------- |
@@ -100,4 +103,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Ukash25/DSA/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Ukash25/DSA/tree/master/0494-target-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Ukash25/DSA/tree/master/2868-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Ukash25/DSA/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Ukash25/DSA/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
